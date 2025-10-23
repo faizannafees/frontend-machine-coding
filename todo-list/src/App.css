@@ -1,0 +1,10 @@
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.strikeThrough{
+    text-decoration: line-through;
+}
